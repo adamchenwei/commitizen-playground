@@ -5,7 +5,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 function abc() {
-  console.log('test');
+  console.log('no no no its not a test!!!!');
 }
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
